@@ -1,0 +1,5 @@
+*.pth
+cached_spectrograms/
+RawDataset/
+processed_data/
+*.pkl
